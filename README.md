@@ -13,6 +13,18 @@
 
 ---
 
+## LISTEN
+
+### YouTube Channel
+
+https://www.youtube.com/@SlopDoctrine
+
+### Featured Playlist
+
+https://www.youtube.com/watch?v=usXjfesjJ0g&list=PLtqOLMtlTOXPFXt8dUXXAmTfaK3mrBl4I
+
+---
+
 ## ABOUT
 
 Slop Doctrine produces aggressive reinterpretations of well-known songs through **metalcore and pop punk covers**.
@@ -25,18 +37,6 @@ Nostalgic pop, rock, and alternative songs are rebuilt with:
 - high-energy pop punk structure  
 
 The goal is simple: transform familiar songs into **heavy, replayable cover versions**.
-
----
-
-## LISTEN
-
-### YouTube Channel
-
-https://www.youtube.com/@SlopDoctrine
-
-### Featured Playlist
-
-https://www.youtube.com/watch?v=usXjfesjJ0g&list=PLtqOLMtlTOXPFXt8dUXXAmTfaK3mrBl4I
 
 ---
 
