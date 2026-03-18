@@ -11,40 +11,60 @@
 
         metalcore // pop punk // heavy covers
 
-Slop Doctrine produces aggressive reinterpretations of well-known songs through metalcore and pop punk covers.
-The project transforms nostalgic pop, rock, and alternative music into heavy modern arrangements built on distorted guitars, breakdowns, and high-energy rhythms.
+---
 
-The goal is to merge:
+## ABOUT
 
-nostalgic melodies
-modern metalcore production
-pop punk energy
-high replay value arrangements
+Slop Doctrine produces aggressive reinterpretations of well-known songs through **metalcore and pop punk covers**.
 
+Nostalgic pop, rock, and alternative songs are rebuilt with:
 
-YouTube Channel
+- distorted guitars  
+- breakdown-driven arrangements  
+- modern metalcore production  
+- high-energy pop punk structure  
+
+The goal is simple: transform familiar songs into **heavy, replayable cover versions**.
+
+---
+
+## LISTEN
+
+### YouTube Channel
+
 https://www.youtube.com/@SlopDoctrine
 
-Featured Playlist
+### Featured Playlist
 
 https://www.youtube.com/watch?v=usXjfesjJ0g&list=PLtqOLMtlTOXPFXt8dUXXAmTfaK3mrBl4I
 
-Content
+---
 
-This project focuses on:
-metalcore covers of classic songs
-pop punk covers of 80s / 90s / 2000s hits
-heavy reinterpretations of popular music
-viral cover song formats designed for high replay value
+## CONTENT
 
-Genres incorporated:
+The project focuses on:
+
+- **metalcore covers** of classic songs  
+- **pop punk covers** of 80s / 90s / 2000s hits  
+- heavy reinterpretations of mainstream music  
+- viral cover formats designed for high replay value  
+
+---
+
+## GENRES
+
 
 metalcore
 pop punk
 alternative rock
 post-hardcore
 
-SEO Keywords
+
+---
+
+## SEO KEYWORDS
+
+
 metalcore covers
 pop punk covers
 rock covers
@@ -52,17 +72,29 @@ metalcore pop covers
 pop punk cover songs
 heavy covers
 
-Purpose of This Site
-This repository hosts the official Slop Doctrine landing page used to aggregate:
 
-playlists
-music releases
-embedded videos
-search indexable content
+---
 
-Updates
-New covers and playlist additions are published regularly through the YouTube channel.
-Follow the channel for upcoming releases.
+## PURPOSE OF THIS SITE
 
-License
-All original arrangements © Slop Doctrine.
+This repository hosts the **official Slop Doctrine landing page**, designed to aggregate:
+
+- playlists  
+- music releases  
+- embedded videos  
+- search-indexable content  
+
+The objective is to make **metalcore covers and pop punk covers easily discoverable through search engines**.
+
+---
+
+## UPDATES
+
+New covers and playlist additions are released regularly on the YouTube channel.
+
+---
+
+## LICENSE
+
+
+All original arrangements © Slop Doctrine
