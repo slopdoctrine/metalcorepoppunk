@@ -94,6 +94,7 @@ New covers and playlist additions are released regularly on the YouTube channel.
 
 ---
 
+<meta name="google-site-verification" content="vR004BF-l9eHzz6koV-vi9qY_BNQIOAbkirq11Um48k" />
 ## LICENSE
 
 
